@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAppService</string>
+    <string name="service_label">El servicio}</string>
+</resources>
